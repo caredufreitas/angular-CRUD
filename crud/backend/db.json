@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "name": "Teclado Game",
+      "price": "195.99",
+      "id": 3
+    },
+    {
+      "name": "Mouse Game",
+      "price": "27.99",
+      "id": 4
+    }
+  ]
+}

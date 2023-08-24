@@ -1,0 +1,26 @@
+table {
+    width: 700px;
+}
+.row-id {
+    width: 75px;
+}
+
+.row-name {
+    width: 250px;
+}
+
+.row-price {
+    width: 20px;
+}
+
+.edit {
+    margin-right: 15px;
+}
+
+.material-icon-edit {
+    color: #d9cd26;
+}
+
+.material-icon-delete {
+    color: #e35e6c;
+}
